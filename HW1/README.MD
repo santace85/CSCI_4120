@@ -9,6 +9,7 @@ Henry Santacruz
 
 ### Requirements:
 Jupyter Notebook is required to view this file. 
+You also need to install pandas, numpy, and matplotlib in Jupyter Notebook.
 
 ### Which K (from 1 to 20) works the best? 
 ![Image of Results](https://github.com/santace85/CSCI_4120/blob/main/HW1/HW1_results.PNG)
